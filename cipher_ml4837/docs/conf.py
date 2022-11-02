@@ -7,8 +7,8 @@
 # -- Project information -----------------------------------------------------
 
 project = u"cipher_ml4837"
-copyright = u"2022, Leong_MunYeeElizabeth"
-author = u"Leong_MunYeeElizabeth"
+copyright = u"2022, Leong Mun Yee Elizabeth"
+author = u"Leong Mun Yee Elizabeth"
 
 # -- General configuration ---------------------------------------------------
 

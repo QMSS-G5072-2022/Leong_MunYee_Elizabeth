@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "cipher_ml4837"
 version = "0.1.0"
-description = "Cipher package"
-authors = ["Leong_MunYeeElizabeth"]
+description = "A package for doing great things!"
+authors = ["Leong Mun Yee Elizabeth"]
 license = "MIT"
 readme = "README.md"
 

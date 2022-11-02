@@ -1,6 +1,6 @@
 # cipher_ml4837
 
-Cipher package
+A package for doing great things!
 
 ## Installation
 
@@ -18,7 +18,7 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`cipher_ml4837` was created by Leong_MunYeeElizabeth. It is licensed under the terms of the MIT license.
+`cipher_ml4837` was created by Leong Mun Yee Elizabeth. It is licensed under the terms of the MIT license.
 
 ## Credits
 
