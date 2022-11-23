@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cipher_ml4837"
-version = "0.1.0"
+version = "0.1.1"
 description = "A package for doing great things!"
 authors = ["Leong Mun Yee Elizabeth"]
 license = "MIT"
@@ -18,6 +18,18 @@ myst-nb = "^0.17.1"
 sphinx-autoapi = "^2.0.0"
 sphinx-rtd-theme = "^1.1.0"
 pytest = "^7.2.0"
+
+
+[[tool.poetry.source]]
+name = "testpypi"
+url = "https://test.pypi.org/simple/"
+default = false
+secondary = false
+
+[tool.pytest.ini_options]
+pythonpath = [
+  "src/cipher_ml4837",
+]
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
